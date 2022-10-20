@@ -1,0 +1,50 @@
+/* FIRST SECTION STARTS HERE */
+.blog-one{
+    background-color: #DCEAF5;
+    margin-bottom: 100px;
+    width: 100%;
+
+}
+.blog-one .blog-body{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;   
+    
+    
+    
+}
+.member .cover{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 160px;
+    
+}
+.member .cover img{
+    width: 32px;
+    height: 32px;
+}
+    
+
+.member{
+    display: flex;
+    justify-content: space-between;
+    width:70%;
+}
+.first-text .first-head{
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 70px;
+    color: #1D3444;
+    letter-spacing: -3px;
+}
+.first-text .first-para{
+    font-size: 1.125rem;
+    color: #5B5B5B;
+}
+.first-text .first-more a{
+    color:#F58A07;
+}
+
+
+/* FIRST SECTION ENDS HERE */

@@ -1,0 +1,69 @@
+/* FIRST SECTION STARTS HERE */
+.career-one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+    width: 100%;
+}
+.words-here{
+    width:45%;
+}
+.big-word{
+    font-size: 4rem;
+    color: #1D3444;
+    line-height: 70px;
+    font-weight: 600;
+}
+.small-word{
+    font-size: 1.125rem;
+    color: #5B5B5B;
+}
+.more-word a{
+    color: white;
+}
+.more-word{
+    
+    background: #F58A07;
+    border-radius: 32px;
+    width: 170px;
+    padding: 15px;
+    text-align: center;
+}
+/* FIRST SECTION ENDS HERE */
+/* SECOND SECTION STARTS HERE */
+.career-two{
+    margin: 100px 0;
+    width: 100%;
+}
+.career-two h2{
+    font-size: 3rem;
+    color: #1D3444;
+}
+.many-tables{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+}
+.table{
+    background: #C1E4FF4D;
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    padding: 20px;
+    width: 400px;
+}
+.big-tab{
+    font-size: 1.5rem;
+    color: #0D1317;
+}
+.small-tab{
+    font-size: 1.125rem;
+    color: #5B5B5B;
+}
+.apply{
+    color:#F58A07;
+}
+/* SECOND SECTION ENDS HERE */

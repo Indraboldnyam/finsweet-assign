@@ -1,0 +1,141 @@
+/* FIRST SECTION STARTS HERE */
+.body .one {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+    width: 100%;
+}
+
+.one-text {
+    width: 45%;
+}
+
+.one .photo-here {
+    width: fit-content;
+}
+
+.one-text .main-text {
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 70px;
+    letter-spacing: -1px;
+    color: #1D3444;
+}
+
+.one-text .sub-text {
+    font-size: 1.125rem;
+    color: #5B5B5B;
+}
+
+.one-text .next {
+    background-color: #F58A07;
+    border-radius: 35px;
+    width: 170px;
+    padding: 20px;
+    text-align: center;
+}
+
+.one-text .next a {
+    color: white;
+    text-align: center;
+}
+
+/* FIRST SECTION ENDS HERE */
+/* SECOND SECTION STARTS HERE */
+.body .two {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+    width: 100%;
+}
+
+.photo-here {
+    width: 45%;
+}
+
+.two-text {
+    width: 45%;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 600;
+    color: #1D3444;
+
+}
+
+.para {
+    font-size: 1.125rem;
+    color: #5B5B5B;
+}
+
+.body ul li {
+    list-style-type: disc;
+    color: #5B5B5B;
+    margin: 10px;
+}
+
+/* SECOND SECTION ENDS HERE */
+/* THIRD SECTION STARTS HERES */
+.body .three{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+    width: 100%;
+}
+.three-text{
+    width: 45%;
+}
+ 
+.three .photo-here{
+    width: 45%;
+}
+/* THIRD SECTION ENDS HERE */
+/* FOURTH SECTION STARTS HERE */
+.body .four{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+    width: 100%;
+}
+.four-text{
+    width: 45%;
+}
+.four .photo-here{
+    width:45%;
+}
+/* FOURTH SECTION ENDS HERE */
+/* FIFTH SECTION STARTS HERE */
+.body .five{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:100px 0;
+    width: 100%;
+}
+.five-text{
+    width:45%;
+}
+.five .photo-here{
+    width: 45%;
+}
+/* FIFTH SECTION ENDS HERE */
+/* SIXTH SECTION STARTS HERE */
+.body .six{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+    width: 100%;
+}
+.six-text{
+    width: 45%;
+}
+.six .photo-here{
+    width: 45%;
+}
+/* SIXTH SECTION ENDS HERE */

@@ -42,10 +42,11 @@
 }
 .many-tables{
     width: 100%;
+    
     display: flex;
     flex-wrap: wrap;
+    gap: 40px;
     
-    justify-content: space-between;
 }
 .table{
     background: #C1E4FF4D;
@@ -53,8 +54,13 @@
     flex-direction: column;
     border-radius: 30px;
     padding: 20px;
-    width: 400px;
+    max-width: 400px;
+    min-width: 300px;
+    width: 100%;
+  
 }
+
+
 .big-tab{
     font-size: 1.5rem;
     color: #0D1317;

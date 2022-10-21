@@ -3,11 +3,13 @@
     background-color: #DCEAF5;
     margin-bottom: 100px;
     width: 100%;
+    padding: 80px 0;
+    
 
 }
 .blog-one .blog-body{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;   
     
     
@@ -24,13 +26,23 @@
     width: 32px;
     height: 32px;
 }
-    
-
 .member{
     display: flex;
     justify-content: space-between;
     width:70%;
+    font-weight: 400;
+    color: #394149;
 }
+
+.first-text{
+    width:45%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+}
+
 .first-text .first-head{
     font-size: 4rem;
     font-weight: 600;
@@ -45,6 +57,11 @@
 .first-text .first-more a{
     color:#F58A07;
 }
+.first-text .first-more::after{
+    content: "\2192";
+    color: #F58A07;
+}
+
 
 
 /* FIRST SECTION ENDS HERE */

@@ -11,16 +11,15 @@
     width: 45%;
 }
 
-.one .photo-here {
-    width: fit-content;
-}
 
 .one-text .main-text {
     font-size: 4rem;
     font-weight: 600;
     line-height: 70px;
-    letter-spacing: -1px;
+    letter-spacing: -2px;
     color: #1D3444;
+    margin: 30px 0;
+    
 }
 
 .one-text .sub-text {
@@ -51,8 +50,10 @@
     width: 100%;
 }
 
-.photo-here {
-    width: 45%;
+.photo-here2{
+    background: url(./img2/Image\ copy.png) no-repeat;
+    width: 620px;
+    height: 550px;
 }
 
 .two-text {
@@ -90,8 +91,10 @@
     width: 45%;
 }
  
-.three .photo-here{
-    width: 45%;
+.three .photo-here3{
+    width: 620px;
+    height: 550px;
+    background: url(./img2/Image\ \(1\)\ copy.png);
 }
 /* THIRD SECTION ENDS HERE */
 /* FOURTH SECTION STARTS HERE */
@@ -105,8 +108,10 @@
 .four-text{
     width: 45%;
 }
-.four .photo-here{
-    width:45%;
+.four .photo-here4{
+   width: 620px;
+   height:550px;
+   background: url(./img2/Image\ \(2\)\ copy.png);
 }
 /* FOURTH SECTION ENDS HERE */
 /* FIFTH SECTION STARTS HERE */
@@ -120,8 +125,10 @@
 .five-text{
     width:45%;
 }
-.five .photo-here{
-    width: 45%;
+.five .photo-here5{
+    width: 620px;
+    height:550px;
+    background: url(./img2/Image\ \(3\)\ copy.png);
 }
 /* FIFTH SECTION ENDS HERE */
 /* SIXTH SECTION STARTS HERE */
@@ -135,7 +142,9 @@
 .six-text{
     width: 45%;
 }
-.six .photo-here{
-    width: 45%;
+.six .photo-here6{
+    width: 620px;
+    height:550px;
+    background: url(./img2/Image\ \(4\).png);
 }
 /* SIXTH SECTION ENDS HERE */

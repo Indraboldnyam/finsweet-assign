@@ -1,0 +1,27 @@
+/* FIRST SECTION STARTS HERE */
+.inner-one{
+    padding: 100px 0;
+    
+}
+/* FIRST SECTION ENDS HERE */
+
+/* SECOND SECTION STARTS HERE */
+.inner-two{
+    width: 40%;
+    margin-bottom: 100px;
+    
+}
+.inner-two .member{
+    width: 60%;
+}
+.inner-two h2{
+    font-size: 4rem;
+    font-weight: 600;
+    color: #1D3444;
+
+}
+.inner-two p{
+    color: #5B5B5B;
+}
+/* SECONDS SECTION ENDS HERE */
+

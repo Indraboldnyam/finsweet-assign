@@ -1,0 +1,76 @@
+/* FIRST SECTION STARTS HERE */
+.contact-one{
+    display: flex;
+    /* justify-content: space-between; */
+    
+
+}
+
+.left-contact h2{
+    font-size: 3rem;
+    color: #1D3444;
+    
+}
+.contact-one p{
+    color: #5B5B5B;
+    font-size: 1.125rem;
+}
+.contact-one .about{
+    display: flex;
+    align-items: center;
+   
+    
+}
+.contact-one .bold-title{
+    font-size: 1.5rem;
+    color: #0D1317;
+}
+
+.contact-one ul{
+    padding:0;
+}
+.contact-one ul li{
+    color: #5B5B5B;
+}
+/* FIRST SECTION ENDS HERE */
+
+/* SECONDS SECTION STARTS HERE */
+
+.contact-two .inner-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0;
+    
+}
+.contact-two .form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+.contact-two input{
+    width: 630px;
+    height: 50px;
+    border-radius: 32px;
+    background: #D2DAED2B;
+    color: #9C9C9C;
+    padding-left: 15px;
+    border: 1px solid #D2DAED2B;
+}
+.contact-two .message{
+    height: 160px;
+}
+.submit-button{
+    background-color: #F58A07;
+    border-radius: 32px;
+    width: 160px;
+    padding: 15px;
+    text-align: center;
+    margin: 30px 0;
+}
+.submit-button a{
+    color: white;
+}
+
+
+/* SECONDS SECTION ENDS HERE */

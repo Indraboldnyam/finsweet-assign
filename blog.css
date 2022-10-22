@@ -4,15 +4,12 @@
     margin-bottom: 100px;
     width: 100%;
     padding: 80px 0;
-    
-
+   
 }
 .blog-one .blog-body{
     display: flex;
     justify-content: space-between;
     align-items: center;   
-    
-    
     
 }
 .member .cover{
@@ -36,11 +33,7 @@
 
 .first-text{
     width:45%;
-    height: 600px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: start;
+    
 }
 
 .first-text .first-head{
@@ -49,6 +42,7 @@
     line-height: 70px;
     color: #1D3444;
     letter-spacing: -3px;
+    margin: 18px 0;
 }
 .first-text .first-para{
     font-size: 1.125rem;
@@ -62,6 +56,61 @@
     color: #F58A07;
 }
 
-
-
 /* FIRST SECTION ENDS HERE */
+/* SECOND SECTION STARTS HERE */
+.blog-two{
+    width: 100%;
+    padding: 50px 0;
+   
+}
+.blog-two h2{
+    font-size: 3rem;
+    color: #0D1317;
+    font-weight: 600;
+}
+.article-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 40px;
+    
+}
+.article-card{
+    max-width: 400px;
+    min-width: 300px;
+    width: 100%;
+    border-radius: 25px;
+    background: #EDF7FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.article-card img{
+    width: 100%;
+    border-radius: 25px 25px 0 0;
+}
+.article-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px 30px;
+    
+}
+.article-card h3{
+    font-size: 1.5rem;
+    color: #0D1317;
+    font-weight: 500;
+}
+.article-card .card-explain{
+    color: #5B5B5B;
+}
+.article-card .learn-here{
+    color:#F58A07;
+    margin: 16px 0;
+}
+.article-card .learn-here::after{
+    content: "\2192";
+}
+/* SECOND SECTION ENDS HERE */

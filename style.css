@@ -27,11 +27,6 @@ header {
     font-weight: 600;
 }
 
-header h1 {
-    color: #063255;
-    font-weight: 600;
-}
-
 .top {
     display: flex;
     justify-content: space-between;

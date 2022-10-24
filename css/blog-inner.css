@@ -6,10 +6,10 @@
 /* FIRST SECTION ENDS HERE */
 
 /* SECOND SECTION STARTS HERE */
-.inner-two{
-    width: 40%;
-    margin-bottom: 100px;
-    
+
+.news-container{
+    max-width: 60%;
+    margin: 0 auto 100px;
 }
 .inner-two .member{
     width: 60%;
@@ -18,7 +18,16 @@
     font-size: 4rem;
     font-weight: 600;
     color: #1D3444;
+    line-height: 70px;
+    margin-top: 24px;
 
+}
+.inner-two h3{
+    font-size: 3rem;
+    font-weight: 600;
+    color:#1D3444;
+    line-height: 56px;
+    
 }
 .inner-two p{
     color: #5B5B5B;

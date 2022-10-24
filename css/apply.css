@@ -74,7 +74,7 @@
     font-weight: 600;
     letter-spacing: -2px;
 }
-.applynow{
+.apply-three .form{
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -82,28 +82,26 @@
     
 }
 
-.applynow .input{
+.apply-three .input{
     width: 630px;
     height: 50px;
-    border-radius: 32px;
+    border-radius: 27px;
     background: #D2DAED2B;
     color: #9C9C9C;
     padding-left: 15px;
     border: 1px solid #D2DAED2B;
     margin: 10px 0;
 }
-.applynow .big-input{
-    border-radius: 32px;
+.apply-three textarea{
+    border-radius: 27px;
     background: #D2DAED2B;
     color: #9C9C9C;
-    padding-left: 15px;
+    padding: 32px 0 0 15px;
     border: 1px solid #D2DAED2B;
     width: 100%;
-    height: 200px;
     margin: 10px 0;
-    /* text-align: start; */
-    
 }
+
 .submit-button{
     background-color: #F58A07;
     border-radius: 32px;

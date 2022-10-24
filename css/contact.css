@@ -76,18 +76,20 @@
 .contact-two input {
     width: 630px;
     height: 50px;
-    border-radius: 32px;
+    border-radius: 27px;
     background: #D2DAED2B;
     color: #9C9C9C;
     padding-left: 15px;
     border: 1px solid #D2DAED2B;
 }
 
-.contact-two .message{
+.contact-two textarea{
     height: 160px;
-}
-.contact-two .message::placeholder{
-    top: 0;
+    border-radius: 27px;
+    background: #D2DAED2B;
+    color: #9C9C9C;
+    padding: 29px 0 0 15px;
+    border: 1px solid #D2DAED2B;
 }
 
 .submit-button {

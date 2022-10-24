@@ -98,17 +98,14 @@
 }
 
 .second .article {
-    /* padding: 10px; */
     max-width: 400px;
     min-width: 300px;
     width: 100%;
     border-radius: 20px;
-    box-sizing: unset;
-    margin: 10px;
+    /* box-sizing: unset; */
+    margin: 3px;
 }
-/* .second .article:nth-child(2){
-    padding: 0 1px;
-} */
+
 
 .second img {
     width:100%;
@@ -181,20 +178,17 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-radius: 30px;
-    width: 100%;
     margin: 40px 0;
 }
 
 .features .feature {
     background-color: white;
-    border: 1px solid white;
     border-radius: 20px;
     padding: 30px;
     max-width: 400px;
     min-width: 300px;
-
-    height: 270px;
+    width: 100%;
+    margin: 3px;
 }
 
 .feature .simple{
@@ -370,15 +364,14 @@
     margin: 100px 0;
 }
 
-.bw {
-    /* background-image: url(./img/images/experience-image.png); */
+.black-img {
     width: 50%;
     background-size: cover;
     
 }
 
 .sixthright {
-    width: 50%;
+    max-width: 50%;
     background-color: #F58A07;
     flex-direction: column;
     display: flex;
@@ -391,10 +384,9 @@
     color: white;
     font-size: 3rem;
     font-weight: 600;
-    
     letter-spacing: -1px;
     line-height: 60px;
-
+    min-width: 400px;
 }
 
 .sixth .seemore {
@@ -406,6 +398,7 @@
     background: white;
     text-align: center;
     padding: 20px;
+    min-width: 200px;
     
     
 }
@@ -501,15 +494,20 @@
 }
 .art{
     background-color: white;
-    border-radius: 25px;
-    width: 400px;
-    display: flex;
+    border-radius: 20px;
+    max-width: 400px;
+    min-width: 300px;
+    width: 100%;
+    margin: 3px;
+    /* display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: center; */
 }
 .eight .big-article img{
-    width:400px;
-    border-radius: 25px 25px 0 0;
+    width:100%;
+    max-width: 400px;
+    min-width: 300px;
+    border-radius: 20px 20px 0 0;
 }
 .eight h3{
     font-size: 3rem;

@@ -1,10 +1,10 @@
 /* FIRST SECTION STARTS HERE */
-.contact-one {
+/* .contact-one {
     display: flex;
     justify-content: space-between;
     margin: 50px auto;
 
-}
+} */
 
 .left-contact {
     width: 45%;
@@ -58,10 +58,10 @@
 
 /* SECONDS SECTION STARTS HERE */
 
-.contact-two {
+.inner {
     display: flex;
     justify-content: space-between;
-    margin: 50px auto;
+    margin: 70px auto;
 
 
 }
@@ -83,8 +83,11 @@
     border: 1px solid #D2DAED2B;
 }
 
-.contact-two .message {
+.contact-two .message{
     height: 160px;
+}
+.contact-two .message::placeholder{
+    top: 0;
 }
 
 .submit-button {

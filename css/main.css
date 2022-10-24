@@ -203,7 +203,7 @@
 }
 
 .fourth .about-image{
-    background: url(./img/images/about-img.png) no-repeat;
+    background: url(../img/images/about-img.png) no-repeat;
     width:50%;
     border-radius: 20px;
    
@@ -454,7 +454,7 @@
 }
 .seventh .video-img{
     width: 50%;
-    background: url(./img/images/video-image.png) no-repeat;
+    background: url(../img/images/video-image.png) no-repeat;
     padding: 30px;
     display: flex;
     align-items: flex-end;

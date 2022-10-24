@@ -58,7 +58,7 @@
     top: 128px;
 }
 .photo-here2{
-    background: url(./img2/Image\ copy.png), no-repeat;
+    background: url(../img/images/image-cope.png), no-repeat;
     width: 620px;
     height: 550px;
     position: relative;
@@ -111,7 +111,7 @@
 .three .photo-here3{
     width: 620px;
     height: 550px;
-    background: url(./img2/Image\ \(1\)\ copy.png);
+    background: url(../img/images/Image\ \(1\)\ copy.png);
     position: relative;
 }
 /* THIRD SECTION ENDS HERE */
@@ -134,7 +134,7 @@
 .photo-here4{
    width: 620px;
    height:550px;
-   background: url(./img2/Image\ \(2\)\ copy.png);
+   background: url(../img/images/Image\ \(2\)\ copy.png);
    position: relative;
 }
 /* FOURTH SECTION ENDS HERE */
@@ -156,7 +156,7 @@
 .five .photo-here5{
     width: 620px;
     height:550px;
-    background: url(./img2/Image\ \(3\)\ copy.png);
+    background: url(../img/images/Image\ \(3\)\ copy.png);
     position: relative;
 }
 /* FIFTH SECTION ENDS HERE */
@@ -178,7 +178,7 @@
 .six .photo-here6{
     width: 620px;
     height:550px;
-    background: url(./img2/Image\ \(4\).png);
+    background: url(../img/images/Image\ \(4\).png);
     position: relative;
 }
 /* SIXTH SECTION ENDS HERE */
